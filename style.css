@@ -55,21 +55,21 @@ body {
 
 .intro-message h2 {
     font-size: 2.5em;
-    color: #;
+    color: white;
     font-weight: bold;
     margin-bottom: 10px;
 }
 
 .intro-message p {
     font-size: 1.3em;
-    color: #;
+    color: white;
     max-width: 900px;
     margin: 0 auto 30px;
 }
 
 .call-to-action h3 {
     font-size: 1.5em;
-    color: #;
+    color: white;
     margin-top: 30px;
 }
 .call-to-action p{
@@ -118,3 +118,4 @@ body {
 body {
     /* ... other styles ... */
     font-family: 'Montserrat', sans-serif;
+}
